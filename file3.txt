@@ -1,3 +1,4 @@
 changing file3 for the first time
 changing file3 for the second time
 changing file3 for the third time (in master branch)
+modify file3 for the second time (from modifyfile3 branch)
