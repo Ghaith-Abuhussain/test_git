@@ -1,5 +1,5 @@
 changing file3 for the first time
-changing file3 for the second time
+changing file3 for time
 changing file3 for the third time (in master branch for the second time)
 modify file3 for the second time (from modifyfile3 branch)
 modify file3 for the third time time (from modifyfile3 branch)
