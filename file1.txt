@@ -1,7 +1,0 @@
-This is the first code in file1.txt
-This is the second code in file1.txt
-This is the third code in file1.txt
-This is the fourth code in file1.txt
-This is the fifth code in file1.txt
-This is the sixth code in file1.txt
-This is the seventh code in file1.txt
