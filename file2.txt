@@ -1,1 +1,2 @@
 the first line in file2.txt
+new modified data
