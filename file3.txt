@@ -1,1 +1,2 @@
 changing file3 for the first time
+changing file3 for the second time
