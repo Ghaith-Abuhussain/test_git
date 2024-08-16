@@ -1,3 +1,4 @@
 the first line in file2.txt
 new modified data
 new modified data2
+new modified data2
